@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9efb7350-a2c7-4cf2-b477-bb525b6f823e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AVCoreExtensions</find>
+      <find>USE_</find>
+      <find>RegisterSubclass</find>
+      <find>DontDestroyOnLoad</find>
+      <find>LoadAssets</find>
+      <find>UnloadAssets</find>
+      <find>IView</find>
+      <find>Popup</find>
+      <find>Dest</find>
+      <find>StreamW</find>
+      <find>SendViewMessage</find>
+      <find>RegisterView</find>
+      <find>SendControllerMessage</find>
+      <find>InsertFunction</find>
+      <find>CopyF</find>
+      <find>Generate</find>
+      <find>UITYPES</find>
+      <find>FreshScene</find>
+      <find>Fresh</find>
+      <find>Value cannot be null</find>
+      <find>AssetDatabase.LoadAssetAtPath</find>
+      <find>Entity</find>
+      <find>Asset</find>
+      <find>AndroidBuildDanboard</find>
+      <find>SuperStarGame</find>
+      <find>mUSIC</find>
+      <find>BuildAs</find>
+      <find>望尘体育科技</find>
+      <find>IconPath</find>
+      <find>todo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Mission/View/MissionItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/PoemItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Mission/Controller/MissionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/GameMainModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/AwardWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Data/UserMissionVo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameTaskItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/SettingWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameMainPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/StatusWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/AssetBundleHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Equipment/EquipmentModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Equipment/View/EquipmentPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Equipment/Controller/EquipmentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleSingleEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/ModuleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/AwardItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/SkillPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/CreateRole/CreateRoleModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/CreateRole/Data/PlayerAvoData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/CreateRole/Data/CreateRoleVo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Equipment/View/EquipmentView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/MissionData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/CreateRole/View/CreateRolePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Controller/BagViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/DialogDataBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/CreateRole/View/CreateRoleView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/EnemyData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/CreateRole/Controller/CreateRoleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/Controller/NPCPreviewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/NPCPreviewModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameMainView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/View/NPCPreviewPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/PlayerCtrl/PlayerCtrlModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/PopupManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/ConfigDataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Windows/ConfirmWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/PoemData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/SkillBaseData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/ShopBaseData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/MainRoleData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/EquipBaseRule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/DialogData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/NPCData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PoemGameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/SceneData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/I18N/I18NManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/Extends.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/UITypeSign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/Util.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/UIType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/MonoObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/PathUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/ClientTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/UIEventListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/PoolManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/BundleWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetBundleLoader/BundleItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetBundleLoader/AssetItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Entity/FollowMainRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Model.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Popup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/PropData/RewardVo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/View.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Panel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/ModuleBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Event/EventDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Event/EventListner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Event/EventDragListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Event/EventController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Entity/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Entity/EntityView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Core/Entity/EntityBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IEntityView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Dialog/View/DialogView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/MapDataEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/SetPropertyDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/FindPathEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ViewScriptCreaterEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/FindReferences.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/JianChen/Interfaces/IController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/DialogDataEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/UGUIScriptsCreate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/PanelAndControllerBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildSystem/AndroidAutoBuild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/ModuleScriptBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildSystem/AndroidChannelBuild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildSystem/ProjectBuilderAndroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildSystem/BuildUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/BackBtnComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/MapDataBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/ProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/LoopHorizontalScrollRect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/LoopScrollRect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/InitOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/LoopVerticalScrollRect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/View/PropItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Data/TaskTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/EasyObjectPool/EasyObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/EasyObjectPool/ResourceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/List/EasyObjectPool/PoolObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Entity/EntityManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Windows/Window.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Windows/AlertWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Windows/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/PoemEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/AnimationEventReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/DamageEffectVo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/Area.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/DamageHud.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/NetWorkComponent/UserAccountTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/JoyStickComponent/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/JoyStickComponent/FixedJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/ResourceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Dialog/DialogModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Dialog/View/DialogPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Dialog/Controller/DialogController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BundleAssets/3DModel/NPCRole/UnityGirl/Mesh/Unitychan_chara_eye.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/GlobalData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Windows/DragMono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/SetPropertyExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/LoadingOverlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/ButtonSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/ParabolaMotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/ReturnablePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/EventConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/FindCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/FlowText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/Loading.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/RayCastCallBack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerVo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Mission/MissionModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/NPCRole/NPCRoleEntitySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Arts/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/NPCRole/ModelView/NPCRoleSingleEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/NPCRole/ModelView/NPCRoleGameEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Arts/UnityChan/Scripts/IdleChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/NPCRole/Controller/NPCRoleEntityController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/MainRoleEntitySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleGameEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/View/SkillItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/Controller/MainRoleController/MainRoleEntityController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/EnemyRole/EnemyRoleEntitySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/EnemyRole/ModelView/EnemyRoleGameEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/EnemyRole/ModelView/EnemyRoleSingleEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entity/EnemyRole/Controller/EnemyRoleEntityController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/ModuleConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Mission/View/MissionPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/EntityConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/MessageConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/View/SkillIconMono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Shop/ShopModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/SkillModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Shop/Data/ShopModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Shop/View/ShopView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Shop/View/ShopPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Shop/View/ShopItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/View/BagViewPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Shop/Controller/ShopController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/LoginModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/View/LoadGameWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/View/PlayerItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/View/RegisterWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/MissionRuleData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/View/LoginView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/View/LoginPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Mission/View/MissionView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/Controller/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Login/Controller/LoadDataController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/Data/SkillModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/Data/UserSkillData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/2D Example/Player2DExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/View/SkillView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/View/SkillPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/3D Example/Player3DExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/Skill/Controller/SkillController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/View/NPCPreviewView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/View/NPCTaskDiaItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/BagViewModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/UserEquipData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/View/BagViewView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/View/PropIconMono.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/VOXFileLoader/Scripts/VOXFileImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Skill/Data/UserSkillData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Skill/Data/SkillModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Skill/View/SkillIconMono.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Skill/View/SkillItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/SkillBaseData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/Controller/MainRoleController/MainRoleEntityController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleSingleEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Login/View/LoadGameWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Login/View/LoginView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Login/View/PlayerItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/DialogDataBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/DialogData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/EnemyData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FrameWork/Utils/Util.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Login/Controller/LoginController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/ConfigData/Rule/MissionRuleData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entity/NPCRole/ModelView/NPCRoleGameEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entity/NPCRole/Controller/NPCRoleEntityController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerVo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/AwardItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/AwardWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/PropData/RewardVo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Dialog/View/DialogPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Dialog/DialogModule.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/MissionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Data/TaskTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/Controller/NPCPreviewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/View/NPCTaskDiaItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Dialog/View/DialogView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Dialog/Controller/DialogController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/ModuleConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Mission/MissionModule.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Mission/View/MissionPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Mission/Controller/MissionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Mission/View/MissionView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/Mission/View/MissionItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Data/UserMissionVo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameTaskItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entity/EnemyRole/Controller/EnemyRoleEntityController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/MessageConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameMainView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PoemGameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/Entity/FollowMainRole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/EventConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJPnpFFHLOqyfClaZtL09GNy0k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Map&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Components/MapDataBuilder.cs&#10;Asset&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/FrameWork/Loader/AssetManager.cs&#10;Login&#9;null&#9;null&#10;Ene&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/DataModel/ConfigData/Rule/EnemyData.cs&#10;NPC&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Entity/NPCRole/ModelView/NPCRoleGameEntity.cs&#10;Load&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/Login/Controller/LoadDataController.cs&#10;Path&#9;null&#9;null&#10;Entity&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Components/Entity/EntityManager.cs&#10;Main&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Main.cs&#10;FindC&#9;null&#9;null&#10;M&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs&#10;Ra&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Common/RayCastCallBack.cs&#10;Di&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Components/DialogDataBuilder.cs&#10;Game&#9;null&#9;null&#10;Mi&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/DataModel/PlayerData/MissionData.cs&#10;View&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Editor/ViewScriptCreaterEditor.cs&#10;npc&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/NPCPreview/View/NPCPreviewView.cs&#10;Event&#9;null&#9;null&#10;S&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/DataModel/PlayerData/SceneData.cs&#10;LOad&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/Login/Controller/LoadDataController.cs&#10;LoginC&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/Login/Controller/LoginController.cs&#10;Mission&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/DataModel/ConfigData/Rule/MissionRuleData.cs&#10;ViewSc&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Editor/ViewScriptCreaterEditor.cs&#10;Finde&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Editor/FindPathEditor.cs&#10;Ma&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Components/MapDataBuilder.cs&#10;NPCDa&#9;null&#9;null&#10;PL&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/DataModel/PlayerData/PlayerData.cs&#10;MainP&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/GameMain/View/GameMainPanel.cs&#10;LoginP&#9;null&#9;null&#10;Gam&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/GameMain/GameMainModule.cs&#10;Modu&#9;null&#9;null&#10;UGUI&#9;null&#9;null&#10;LoginV&#9;null&#9;null&#10;Creat&#9;null&#9;null&#10;Ray&#9;null&#9;null&#10;Lo&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Module/Login/Controller/LoginController.cs&#10;mAP&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Components/MapDataBuilder.cs&#10;Sce&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/DataModel/PlayerData/SceneData.cs&#10;EntityM&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Components/Entity/EntityManager.cs&#10;IEntity&#9;null&#9;null&#10;Glo&#9;null&#9;null&#10;Enti&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/FrameWork/JianChen/Core/Entity/EntityView.cs&#10;Flow&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Common/FlowText.cs&#10;Po&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/FrameWork/Loader/PoolManager.cs&#10;Npc&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Entity/NPCRole/ModelView/NPCRoleGameEntity.cs&#10;Pool&#9;null&#9;null&#10;V&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/FrameWork/JianChen/Core/Entity/EntityView.cs&#10;EntityV&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/FrameWork/JianChen/Interfaces/IEntityView.cs&#10;En&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/FrameWork/JianChen/Core/Entity/EntityBase.cs&#10;Mainrole&#9;FILE&#9;file://F:/JianChen/JianChen/JianChen/Assets/Scripts/Entity/MainRole/ModelView/MainRoleGameEntity.cs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Plugins/LeanCloud/dlls/UnityEditor.iOS.Extensions.Xcode.dll" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9efb7350-a2c7-4cf2-b477-bb525b6f823e" name="Default" comment="" />
+      <created>1534931355053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534931355053</updated>
+      <workItem from="1534931356510" duration="695000" />
+      <workItem from="1536228148276" duration="384000" />
+      <workItem from="1536228774163" duration="191000" />
+      <workItem from="1536228999471" duration="409000" />
+      <workItem from="1536229472229" duration="633000" />
+      <workItem from="1536230127107" duration="554000" />
+      <workItem from="1536230706513" duration="11000" />
+      <workItem from="1536230746306" duration="1534000" />
+      <workItem from="1536722140933" duration="18435000" />
+      <workItem from="1536919182180" duration="4070000" />
+      <workItem from="1537155484980" duration="11639000" />
+      <workItem from="1537349793574" duration="1355000" />
+      <workItem from="1537409824448" duration="2878000" />
+      <workItem from="1537523019410" duration="2748000" />
+      <workItem from="1537875469333" duration="2113000" />
+      <workItem from="1537947501042" duration="4436000" />
+      <workItem from="1539249549241" duration="3279000" />
+      <workItem from="1540801599153" duration="2810000" />
+      <workItem from="1545039490344" duration="447000" />
+      <workItem from="1545040014183" duration="4513000" />
+      <workItem from="1545099392328" duration="14007000" />
+      <workItem from="1548666496272" duration="6601000" />
+      <workItem from="1548745526087" duration="8827000" />
+      <workItem from="1554715604847" duration="3658000" />
+      <workItem from="1554876551598" duration="3350000" />
+      <workItem from="1555058640789" duration="3344000" />
+      <workItem from="1555382335815" duration="2594000" />
+      <workItem from="1555657532883" duration="10378000" />
+      <workItem from="1555902657764" duration="2717000" />
+      <workItem from="1556076871955" duration="6565000" />
+      <workItem from="1556091228498" duration="9812000" />
+      <workItem from="1557385948381" duration="4892000" />
+      <workItem from="1557732596950" duration="4497000" />
+      <workItem from="1557829264982" duration="5463000" />
+      <workItem from="1557908869949" duration="3051000" />
+      <workItem from="1557992071945" duration="2516000" />
+      <workItem from="1558079780570" duration="6108000" />
+      <workItem from="1558333825348" duration="8484000" />
+      <workItem from="1558430177777" duration="5970000" />
+      <workItem from="1558512174986" duration="12213000" />
+      <workItem from="1558592579980" duration="5477000" />
+      <workItem from="1558695052451" duration="2816000" />
+      <workItem from="1558697877648" duration="2259000" />
+      <workItem from="1558765666141" duration="705000" />
+      <workItem from="1558766400033" duration="4582000" />
+      <workItem from="1559111365541" duration="10909000" />
+      <workItem from="1559184777696" duration="955000" />
+      <workItem from="1559195996213" duration="7533000" />
+      <workItem from="1559296186858" duration="2863000" />
+      <workItem from="1559705270927" duration="11683000" />
+      <workItem from="1559808708862" duration="5758000" />
+      <workItem from="1560137037001" duration="2663000" />
+      <workItem from="1560154466847" duration="1163000" />
+      <workItem from="1560159903386" duration="2610000" />
+      <workItem from="1560418970238" duration="5558000" />
+      <workItem from="1560758438940" duration="6690000" />
+      <workItem from="1560827402196" duration="3149000" />
+      <workItem from="1561102807456" duration="4792000" />
+      <workItem from="1561364836430" duration="6215000" />
+      <workItem from="1561378415176" duration="1589000" />
+      <workItem from="1561464538779" duration="3606000" />
+      <workItem from="1562639523928" duration="604000" />
+      <workItem from="1562749236691" duration="2585000" />
+      <workItem from="1562809244025" duration="3363000" />
+      <workItem from="1563332216587" duration="11840000" />
+      <workItem from="1563432143700" duration="5720000" />
+      <workItem from="1563438126804" duration="10125000" />
+      <workItem from="1563517506163" duration="6612000" />
+      <workItem from="1563862798901" duration="5832000" />
+      <workItem from="1564468399530" duration="8072000" />
+      <workItem from="1564541960439" duration="2539000" />
+      <workItem from="1565675646885" duration="14314000" />
+      <workItem from="1565753304115" duration="2980000" />
+      <workItem from="1565773286148" duration="2854000" />
+      <workItem from="1566196378918" duration="17961000" />
+      <workItem from="1566269302675" duration="14601000" />
+      <workItem from="1566352587185" duration="11652000" />
+      <workItem from="1566547159771" duration="1248000" />
+      <workItem from="1566810860123" duration="1011000" />
+      <workItem from="1566978401747" duration="1781000" />
+      <workItem from="1567146833788" duration="3872000" />
+      <workItem from="1567490292264" duration="10055000" />
+      <workItem from="1567673104601" duration="3847000" />
+      <workItem from="1567997441420" duration="16271000" />
+      <workItem from="1569245789125" duration="2781000" />
+      <workItem from="1569248612197" duration="242000" />
+      <workItem from="1569293728359" duration="4497000" />
+      <workItem from="1569311843314" duration="2469000" />
+      <workItem from="1569405154590" duration="15010000" />
+      <workItem from="1572418398242" duration="1013000" />
+      <workItem from="1572424676159" duration="1622000" />
+      <workItem from="1573442861250" duration="1578000" />
+      <workItem from="1573804107763" duration="350000" />
+      <workItem from="1573807267596" duration="14000" />
+      <workItem from="1573910847061" duration="3451000" />
+      <workItem from="1574126674086" duration="2128000" />
+      <workItem from="1574159742527" duration="1512000" />
+      <workItem from="1574162709794" duration="10328000" />
+      <workItem from="1574219324144" duration="6245000" />
+      <workItem from="1574385449626" duration="11292000" />
+      <workItem from="1574413505220" duration="2436000" />
+      <workItem from="1574426386586" duration="2070000" />
+      <workItem from="1574735046144" duration="2891000" />
+      <workItem from="1574755935486" duration="7830000" />
+      <workItem from="1574843353603" duration="3399000" />
+      <workItem from="1574936102593" duration="636000" />
+      <workItem from="1575251292787" duration="11295000" />
+      <workItem from="1575290029553" duration="6160000" />
+      <workItem from="1575343554097" duration="2175000" />
+      <workItem from="1575366205964" duration="5413000" />
+      <workItem from="1575378693263" duration="6767000" />
+      <workItem from="1575426119798" duration="2253000" />
+      <workItem from="1575468253522" duration="4248000" />
+      <workItem from="1575531416075" duration="1982000" />
+      <workItem from="1575635457228" duration="4094000" />
+      <workItem from="1575709902552" duration="6102000" />
+      <workItem from="1575727779569" duration="2873000" />
+      <workItem from="1575886201982" duration="3712000" />
+      <workItem from="1575897175898" duration="5317000" />
+      <workItem from="1575946628264" duration="6913000" />
+      <workItem from="1575970010454" duration="8707000" />
+      <workItem from="1575982616773" duration="4234000" />
+      <workItem from="1576067222059" duration="11457000" />
+      <workItem from="1576115369675" duration="7081000" />
+      <workItem from="1576141931090" duration="6182000" />
+      <workItem from="1576299398999" duration="1285000" />
+      <workItem from="1576467564206" duration="5386000" />
+      <workItem from="1576481046706" duration="2942000" />
+      <workItem from="1576545500184" duration="5049000" />
+      <workItem from="1576572259340" duration="8760000" />
+      <workItem from="1576637925372" duration="2141000" />
+      <workItem from="1576655219901" duration="1876000" />
+      <workItem from="1576719251509" duration="1207000" />
+      <workItem from="1576746405272" duration="3739000" />
+      <workItem from="1576812775829" duration="1301000" />
+      <workItem from="1576845843712" duration="2791000" />
+      <workItem from="1576919311615" duration="6703000" />
+      <workItem from="1577017699160" duration="8547000" />
+      <workItem from="1577089658621" duration="2647000" />
+      <workItem from="1577112950732" duration="599000" />
+      <workItem from="1577176840480" duration="6389000" />
+      <workItem from="1577191907831" duration="5218000" />
+      <workItem from="1577248395462" duration="681000" />
+      <workItem from="1582621449723" duration="28000" />
+      <workItem from="1583832163999" duration="672000" />
+      <workItem from="1587482922946" duration="683000" />
+      <workItem from="1587892931193" duration="1506000" />
+      <workItem from="1588647665300" duration="1178000" />
+      <workItem from="1588671449788" duration="2821000" />
+      <workItem from="1588731279575" duration="7727000" />
+      <workItem from="1588750560181" duration="6961000" />
+      <workItem from="1588813654828" duration="9308000" />
+      <workItem from="1588837695037" duration="11733000" />
+      <workItem from="1588895001012" duration="11127000" />
+      <workItem from="1588921910516" duration="7930000" />
+      <workItem from="1589010257708" duration="6360000" />
+      <workItem from="1589078604239" duration="2059000" />
+      <workItem from="1589164265513" duration="2652000" />
+      <workItem from="1589179872351" duration="3197000" />
+      <workItem from="1589186565242" duration="5119000" />
+      <workItem from="1589247435938" duration="4450000" />
+      <workItem from="1591086285233" duration="1822000" />
+      <workItem from="1592799471549" duration="229000" />
+      <workItem from="1592799753697" duration="242000" />
+      <workItem from="1593398561378" duration="3008000" />
+      <workItem from="1593504633728" duration="6697000" />
+      <workItem from="1599726417518" duration="1030000" />
+      <workItem from="1599728164067" duration="35000" />
+      <workItem from="1603860689528" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="57" key="SettingsEditor" timestamp="1599728191728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599728191728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Editor/AssetBundleHelper.cs</url>
+          <line>175</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Editor/AssetBundleHelper.cs" initialLine="174">
+            <startOffsets>
+              <option value="7191" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7253" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Editor/AssetBundleHelper.cs</url>
+          <line>93</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Editor/AssetBundleHelper.cs" initialLine="92">
+            <startOffsets>
+              <option value="3585" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3647" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs</url>
+          <line>97</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs" initialLine="91">
+            <startOffsets>
+              <option value="3522" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3569" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs</url>
+          <line>75</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs" initialLine="70">
+            <startOffsets>
+              <option value="2631" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2671" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs" initialLine="72">
+            <startOffsets>
+              <option value="2702" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2747" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs</url>
+          <line>78</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/ViewScriptBuilder.cs" initialLine="73">
+            <startOffsets>
+              <option value="2764" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2800" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetManager.cs</url>
+          <line>162</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetManager.cs" initialLine="160">
+            <startOffsets>
+              <option value="5450" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5500" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetManager.cs</url>
+          <line>164</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/FrameWork/Loader/AssetManager.cs" initialLine="162">
+            <startOffsets>
+              <option value="5514" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5549" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleSingleEntity.cs</url>
+          <line>217</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleSingleEntity.cs" initialLine="153">
+            <startOffsets>
+              <option value="6888" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6932" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleSingleEntity.cs</url>
+          <line>235</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Entity/MainRole/ModelView/MainRoleSingleEntity.cs" initialLine="156">
+            <startOffsets>
+              <option value="7726" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7781" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/SkillPlayer.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/EntityMono/SkillPlayer.cs" initialLine="19">
+            <startOffsets>
+              <option value="453" />
+            </startOffsets>
+            <endOffsets>
+              <option value="479" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerData.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerData.cs" initialLine="45">
+            <startOffsets>
+              <option value="1380" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1433" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs</url>
+          <line>141</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" initialLine="66">
+            <startOffsets>
+              <option value="3791" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3849" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs</url>
+          <line>186</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" initialLine="170">
+            <startOffsets>
+              <option value="5816" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5877" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/Equipment/View/EquipmentView.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/Equipment/View/EquipmentView.cs" initialLine="48">
+            <startOffsets>
+              <option value="1334" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1405" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs</url>
+          <line>181</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" initialLine="181">
+            <startOffsets>
+              <option value="5634" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5680" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs</url>
+          <line>180</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" initialLine="180">
+            <startOffsets>
+              <option value="5545" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5617" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs</url>
+          <line>188</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" initialLine="188">
+            <startOffsets>
+              <option value="5903" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5955" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Controller/BagViewController.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Controller/BagViewController.cs" initialLine="38">
+            <startOffsets>
+              <option value="1016" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1062" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs</url>
+          <line>221</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/BagView/Data/PropModel.cs" initialLine="221">
+            <startOffsets>
+              <option value="6975" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7018" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/VOXFileLoader/Scripts/VOXFileImport.cs</url>
+          <line>337</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/VOXFileLoader/Scripts/VOXFileImport.cs" initialLine="337" />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs</url>
+          <line>312</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs" initialLine="312" />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs</url>
+          <line>266</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs" initialLine="266" />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs</url>
+          <line>291</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs" initialLine="291" />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs</url>
+          <line>270</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/VoxelImporter/Scripts/Editor/VoxelBaseCore.cs" initialLine="270" />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/DialogDataBuilder.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/DialogDataBuilder.cs" initialLine="23">
+            <startOffsets>
+              <option value="719" />
+            </startOffsets>
+            <endOffsets>
+              <option value="751" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Components/DialogDataBuilder.cs</url>
+          <line>58</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Components/DialogDataBuilder.cs" initialLine="51">
+            <startOffsets>
+              <option value="1421" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1443" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerData.cs</url>
+          <line>53</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/DataModel/PlayerData/PlayerData.cs" initialLine="48">
+            <startOffsets>
+              <option value="1315" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1339" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/Controller/NPCPreviewController.cs</url>
+          <line>113</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/NPCPreview/Controller/NPCPreviewController.cs" initialLine="107">
+            <startOffsets>
+              <option value="4542" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4586" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs</url>
+          <line>58</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs" initialLine="57">
+            <startOffsets>
+              <option value="1954" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1994" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs" initialLine="76">
+            <startOffsets>
+              <option value="2388" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2428" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs</url>
+          <line>66</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs" initialLine="65">
+            <startOffsets>
+              <option value="2107" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2163" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs</url>
+          <line>71</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/Controller/GameMainController.cs" initialLine="70">
+            <startOffsets>
+              <option value="2300" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2322" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameMainView.cs</url>
+          <line>241</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Module/GameMain/View/GameMainView.cs" initialLine="205">
+            <startOffsets>
+              <option value="8257" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8320" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
